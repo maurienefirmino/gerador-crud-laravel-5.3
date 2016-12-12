@@ -1,0 +1,13 @@
+{
+    "name": "maurienefirmino/crud-laravel",
+    "description": "Gerador de CRUD Laravel 5.3",
+    "authors": [ 
+        {
+            "name": "Mauriene Firmino",
+            "email": "maurienefirmino@gmail.com"
+        }
+    ],
+    "require": {
+         "php": ">=5.3.17"
+    }
+ }
